@@ -22,7 +22,6 @@ I'm Soumyadeep Paul, an MCA student at Jadavpur University, passionate about **B
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumya-0712&show_icons=true&theme=dark&hide_border=true" alt="Soumyadeep's GitHub Stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumya-0712&theme=dark&hide_border=true" alt="Soumyadeep's GitHub Streak" height="180"/>
 </p>
 
